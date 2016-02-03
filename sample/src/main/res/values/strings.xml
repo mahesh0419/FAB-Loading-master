@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">FabLoading</string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+
+
+  <string name="login_title">Login</string>
+  <string name="btn_login">Submit</string>
+  <string name="enter_username">Enter User Name</string>
+  <string name="enter_password">Enter Password</string>
+
+
+
+  <string name="reg_enter_name">Enter Name</string>
+  <string name="reg_enter_password">Enter Password</string>
+
+  <string name="reg_enter_email">Enter EmailId</string>
+
+  <string name="reg_enter_number">Enter Phone Number</string>
+
+  <string name="reg_login_title">Registration</string>
+  <string name="reg_btn_reg">Submit</string>
+
+
+
+</resources>

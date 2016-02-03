@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><color name="transperent_bg">#AFAFAF</color>
+    <color name="color_blue">#0050EF</color>
+    <color name="color_pink">#CC277F</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_grey">#E6E6E6</color>
+    <color name="color_black">#000000</color>
+    <color name="backgound_color">#EEF0F4</color>
+    <color name="app_color">#17C5B5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="border_color">#CFD6E2</color>
+    <color name="hint_color">#B0B0B0</color>
+    <color name="BTN_LOGIN">#53DBBB</color>
+
+
+
+    <color name="list_bg_1">#ffffff</color>
+    <color name="list_bg_2">#fef2e8</color>
+    <color name="text_color">#fafafa</color>
+
+    <color name="colorPrimary">#3fa9f5</color>
+    <color name="colorPrimaryTransparent">#335f50e1</color>
+    <color name="colorPrimaryDark">#3fa9f5</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#5f50e1</color>
+    <color name="color">#3fa9f5</color>
+
+
+
+    <color name="list_item_1">#3fa9f5</color>
+    <color name="list_item_2">#19bbfc</color>
+</resources>
